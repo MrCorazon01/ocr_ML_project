@@ -1,1 +1,1 @@
-# ocr_project-
+# OCR ML project
