@@ -43,13 +43,13 @@ Ce projet est dédié à la reconnaissance de caractères à l'aide de la biblio
 4. Lancez l'application 1 (Tkinter) :
 
    ```
-   python test.py
+   python src/test.py
    ```
 
 5. Lancez l'application 2 (Reconnaissance d'Image) :
 
    ```
-   python test1.py
+   python src/test1.py
    ```
 
 
