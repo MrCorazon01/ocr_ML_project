@@ -25,7 +25,7 @@ Ce projet est dédié à la reconnaissance de caractères à l'aide de la biblio
 1. Clonez ce dépôt sur votre machine :
 
    ```
-   git clone https://github.com/VotreNom/reconnaissance-caracteres-tensorflow.git
+   git clone https://github.com/MrCorazon01/ocr_ML_project.git
    ```
 
 2. Accédez au répertoire du projet :
